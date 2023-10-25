@@ -2,9 +2,9 @@
 
 - This project is based on REST API
 - Used packages :
-    *Express : api calling
-    *EJS : For templating
-    *faker : For fake user's
-    *mysql2 : For accessing database
-    *uuid : For fake unique id
+    1.Express : api calling
+    2.EJS : For templating
+    3.faker : For fake user's
+    4.mysql2 : For accessing database
+    5.uuid : For fake unique id
     
